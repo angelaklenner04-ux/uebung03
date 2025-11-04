@@ -1,7 +1,7 @@
 package p3;
 
 public class P3_main {
-
+	
     public static void main(String[] args) {
         int i = -99;
         int k = -7;
@@ -21,11 +21,12 @@ public class P3_main {
         // nutzt k
         System.out.println("Quadrat von k: " + (k * k));
 
-        // Miniprogramm 3:
-        // nutzt j
-        if (j % 2 == 0) {
-            System.out.println("int j = " + j + " ist gerade!");
-        } else {
-            System.out.println("int j = " + j + " ist ungerade!");
-        }
+     // Miniprogramm 3:
+     // nutzt j
+     if (j % 2 == 0) {
+         System.out.println("int j = " + j + " ist gerade!");
+     } else {
+         System.out.println("int j = " + j + " ist ungerade!");
+     }
     }
+}
