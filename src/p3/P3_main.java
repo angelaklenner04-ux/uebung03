@@ -29,4 +29,4 @@ public class P3_main {
             System.out.println("int j = " + j + " ist ungerade!");
         }
     }
-}
+}// meta: P3 commit
