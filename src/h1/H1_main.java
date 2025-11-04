@@ -44,4 +44,4 @@ public class H1_main {
         System.out.println("Negativ: " + negativ);
         System.out.println("Warnhinweis: " + warnhinweis);
     }
-}
+}// meta: H1 commit
