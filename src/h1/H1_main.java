@@ -37,10 +37,12 @@ public class H1_main {
             warnhinweis = false;
         }
 
-        // 5️⃣ Ausgabe
+        // 5 Ausgabe
         System.out.println("Guthaben: " + guthaben);
         System.out.println("Monatlicher Eingang: " + monEingang);
         System.out.println("Rating: " + rating);
         System.out.println("Negativ: " + negativ);
         System.out.println("Warnhinweis: " + warnhinweis);
     }
+}
+  
