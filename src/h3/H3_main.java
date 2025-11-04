@@ -36,3 +36,4 @@ public class H3_main {
 		System.out.println("Wartende Personen: " + wartend);
 		System.out.println("Veranstaltung voll: " + istVoll);
 	}
+}
