@@ -20,4 +20,3 @@ public class P1_main {
             System.out.println("Es konnte kein Ausgang festgestellt werden");
         }
     }
-}// meta: P1 commit

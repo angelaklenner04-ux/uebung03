@@ -33,4 +33,3 @@ public class P2_main {
 	}
 }
 
-// d++ zähle eins hoch (Anzahl erfüllter Eigenschaften// meta: P2 commit
